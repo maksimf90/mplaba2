@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Mobpril</string>
+    <string name="button_text">НАЖМИ</string>
+    <string name="textView">textView</string>
+    <string name="button_text2">button</string>
+
+</resources>
